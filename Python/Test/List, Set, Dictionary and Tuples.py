@@ -91,7 +91,7 @@ Q10. Perform the following Dictionary operations: (2 Marks)
 • Loop through the dictionary and print all keys, values, and items 
 • Convert all student names to a list using dict.keys()
 """
-
+"""
 # Create a dictionary of students
 students = {
     "Rahul": {"age": 20, "marks": 85},
@@ -132,3 +132,4 @@ for item in students.items():
 # Convert student names to a list
 student_names = list(students.keys())
 print("\nStudent Names List:", student_names)
+"""

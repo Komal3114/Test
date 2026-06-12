@@ -66,7 +66,7 @@ Q5. Create a Login System: (4 Marks)
 
 • Handle AccountLockedError with finally block.
 """
-
+"""
 # Custom Exception
 class AccountLockedError(Exception):
     pass
@@ -104,8 +104,8 @@ class LoginSystem:
 user = LoginSystem()
 
 # Test cases
-"""
 user.login("abc")
 user.login("123")
-user.login("xyz")"""
+user.login("xyz")
 user.login("python@123")
+"""

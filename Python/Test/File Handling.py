@@ -41,7 +41,7 @@ Q7. Create an Employee File System: (3 Marks)
 • Read updated file 
 • Delete the file and verify using os.path.exists()
 """
-
+"""
 import os
 
 # Create employees.txt with 3 employees
@@ -73,3 +73,4 @@ if not os.path.exists("employees.txt"):
     print("File deleted successfully.")
 else:
     print("File still exists.")
+"""
