@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Rahul",
+        "age": 20,
+        "city": "Bhopal",
+        "course": "B.Tech",
+        "marks": 85
+    },
+    {
+        "name": "Priya",
+        "age": 21,
+        "city": "Indore",
+        "course": "BCA",
+        "marks": 78
+    },
+    {
+        "name": "Amit",
+        "age": 19,
+        "city": "Gwalior",
+        "course": "B.Sc",
+        "marks": 65
+    },
+    {
+        "name": "Sneha",
+        "age": 22,
+        "city": "Jabalpur",
+        "course": "B.Tech",
+        "marks": 92
+    }
+]
